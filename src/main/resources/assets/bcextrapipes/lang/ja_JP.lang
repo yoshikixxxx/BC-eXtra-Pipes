@@ -1,0 +1,6 @@
+itemGroup.BC eXtra Pipes=BC eXtra Pipes
+
+item.PipeTeleportSenderItem.name=テレポートパイプ (送信)
+item.PipeTeleportSenderFluid.name=防水テレポートパイプ (送信)
+item.PipeTeleportReceiverItem.name=テレポートパイプ (受信)
+item.PipeTeleportReceiverFluid.name=防水テレポートパイプ (受信)
